@@ -11,7 +11,7 @@
 
 ## ᴅᴇᴘʟᴏʏ ʀᴀɪʟᴡᴀʏ ꜱᴇʀᴠᴇʀ </h4>
 
-[![Deploy+To+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/EsportMusicX/SmokerMusicX&envs=SESSION_NAME,BOT_TOKEN,BOT_NAME,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FNnnnnnnnnnnoip%2FVAMPIRE_OP.git&envs=API_HASH%2CAPI_ID%2CBOT_NAME%2CBOT_TOKEN%2CDURATION_LIMIT%2CSESSION_NAME%2CSUDO_USERS&referralCode=0he9k9)
 
 
 ꜱᴛʀɪɴɢ ɴᴀᴍᴇ:
